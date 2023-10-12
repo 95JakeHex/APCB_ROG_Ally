@@ -1,3 +1,4 @@
 # APCB_ROG_Ally
 
-Samsung k9 32GB 7500 APCB block for ROG Ally bios 323: Samsung_k9_APCB.bin
+Each APCB is bios version specific, along with the original ram type as such please take care to note which is being downloaded and used. 
+I've only uploaded verified apcb edits 
