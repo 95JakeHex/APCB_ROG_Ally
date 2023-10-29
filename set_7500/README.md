@@ -1,4 +1,4 @@
-Put efishell and https://github.com/datasone/setup_var.efi 
+Put efishell and https://github.com/datasone/setup_var.efi on root of usb
 ------
 
 Boot Efishell
