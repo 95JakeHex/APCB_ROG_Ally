@@ -22,3 +22,5 @@ Reddit:
 https://www.reddit.com/r/ROGAlly/
 
 My Discord: 95Jake
+
+thanks to e1000 for the some apcb edits when im too busy
