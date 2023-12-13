@@ -8,6 +8,9 @@ Micron & Samsung both work now, the strap just needs to be moved.
 
 ---
 
+334 apcb works on 335 (checked by lowkeyloki)
+---
+
 Perm 7500Mhz & smokeless and how set in the 7500mhz folder (Rough guide)
 
 ----
